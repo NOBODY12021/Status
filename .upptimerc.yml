@@ -14,7 +14,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: AngelWorks Studios Status
   introTitle: "AngelWorks Studios Status"
-  introMessage: This is the Status Page of all Websites and Servers owned by AngelWorks Studios.
+  introMessage: This is the Status Page of all Websites and Servers owned by AngelWorks Studios. This Status Site is broken in the Moment. Yes ive managed to break the Site telling me when other Sites are broken. Dont ask how.
   navbar:
     - title: Status
       href: /
