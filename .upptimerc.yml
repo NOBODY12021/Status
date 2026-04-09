@@ -21,6 +21,6 @@ status-website:
     - title: GitHub
       href: https://github.com/nobody12021/status
 workflowSchedule:
-  uptime: "2-59/5 * * * *"
+  uptime: "*/5 * * * *"
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
