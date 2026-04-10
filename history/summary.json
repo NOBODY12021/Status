@@ -4,17 +4,19 @@
     "url": "https://angelworksstudios.com/",
     "icon": "https://icons.duckduckgo.com/ip3/angelworksstudios.com.ico",
     "slug": "angel-works-studios-website",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1127,
-    "timeDay": 1224,
-    "timeWeek": 1127,
-    "timeMonth": 1127,
-    "timeYear": 1127,
-    "dailyMinutesDown": {}
+    "status": "up",
+    "uptime": "98.37%",
+    "uptimeDay": "96.65%",
+    "uptimeWeek": "98.37%",
+    "uptimeMonth": "98.37%",
+    "uptimeYear": "98.37%",
+    "time": 1058,
+    "timeDay": 826,
+    "timeWeek": 1058,
+    "timeMonth": 1058,
+    "timeYear": 1058,
+    "dailyMinutesDown": {
+      "2026-04-10": 48
+    }
   }
 ]
