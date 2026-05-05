@@ -21,11 +21,8 @@ status-website:
     - title: GitHub
       href: https://github.com/nobody12021/status
   i18n:
-    locale: en-GB
-    day: "DD"
-    month: "Mon"
-    year: "YYYY"
-    dateFormat: "DD MMM YYYY
+    locale: de-DE
+    dateFormat: "DD.MM.YYYY"
 workflowSchedule:
   uptime: "*/5 * * * *"
 # Upptime also supports notifications, assigning issues, and more
